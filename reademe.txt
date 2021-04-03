@@ -1,1 +1,1 @@
-#根据sample.exe内表格数据，ExcelToQR3.py能够自动把内容转化为二维码，TextToPng.py能够将相应数据生成png图片，并根据边界自动换行
+#根据sample.exe内表格数据，ExcelToQR3.py能够自动把内容转化为二维码，TextToPng.py能够将相应数据生成png图片，并根据边界自动换行.
