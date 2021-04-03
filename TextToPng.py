@@ -77,7 +77,7 @@ class ImgText:
       y += self.line_height * line_count
     note_img.save(i_str+".png")
 if __name__ == '__main__':
-  for i in range(65,108):
+  for i in range(65,108):  #起始行数与结束行数-1
     n = ImgText(detail(i))
     i_str = str(i)
     n.draw_text()
